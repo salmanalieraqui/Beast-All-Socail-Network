@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res-auto" app:theme="@style/ThemeOverlay_AppCompat_Dark" app:gravity="top|bottom|center_vertical|fill_vertical|center|fill" app:orientation="vertical" app:background="#000000" app:paddingTop="@dimen/activity_vertical_margin" app:layout_width="match_parent" app:layout_height="UNKNOWN_DATA_0x7f06007f">
+    <ImageView app:id="@+id/nav_header_mainimageview" app:layout_width="match_parent" app:layout_height="match_parent" app:srcCompat="@drawable/beastbg" />
+</LinearLayout>

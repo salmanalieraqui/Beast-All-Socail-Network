@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/bgofallmore" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="15dp" android:layout_marginRight="10dp" android:alpha="0.95">
+        <Button android:textStyle="bold" android:id="@+id/watchfragmentvine" android:background="@drawable/my_selectore" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3a01" android:text="vine" android:drawableLeft="@drawable/vine" />
+        <Button android:textStyle="bold" android:id="@+id/watchfragmentnetflix" android:background="@drawable/my_selectore" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3a01" android:text="netflix" android:drawableLeft="@drawable/netflix" />
+        <Button android:textStyle="bold" android:id="@+id/watchfragmenthulu" android:background="@drawable/my_selectore" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3a01" android:text="hulu" android:drawableLeft="@drawable/hulu" />
+    </LinearLayout>
+</ScrollView>

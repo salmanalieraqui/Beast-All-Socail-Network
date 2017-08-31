@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res-auto" app:orientation="vertical" app:id="@+id/content_main" app:layout_width="match_parent" app:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:textColor="#ffffff" app:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" app:background="#000000" app:layout_width="match_parent" app:layout_height="UNKNOWN_DATA_0x2801" app:text="Beast" />
+    <FrameLayout app:id="@+id/fragment_container" app:layout_width="match_parent" app:layout_height="match_parent" />
+</LinearLayout>

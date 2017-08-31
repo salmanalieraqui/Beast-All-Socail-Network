@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Social">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:icon="@drawable/homend" android:id="@+id/nav_home" android:title="Home" />
+                <item android:icon="@drawable/facebooknd" android:id="@+id/nav_facebook" android:title="facebook" />
+                <item android:icon="@drawable/twitternd" android:id="@+id/nav_twitter" android:title="twitter" />
+                <item android:icon="@drawable/linkedinnd" android:id="@+id/nav_linkedin" android:title="linkedIn" />
+                <item android:icon="@drawable/more" android:id="@+id/nav_socialmore" android:title="more" />
+            </group>
+        </menu> />
+    <item android:title="Watch">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:icon="@drawable/youtubend" android:id="@+id/nav_youtube" android:title="Youtube" />
+                <item android:icon="@drawable/vimeond" android:id="@+id/nav_vimeo" android:title="Vimeo" />
+                <item android:icon="@drawable/more" android:id="@+id/nav_watchmore" android:title="more" />
+            </group>
+        </menu> />
+    <item android:title="BeastHub">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:icon="@drawable/music" android:id="@+id/nav_mixcloud" android:title="MixCloud" />
+                <item android:icon="@drawable/digg" android:id="@+id/nav_digg" android:title="Digg" />
+                <item android:icon="@drawable/militiasearchnd" android:id="@+id/nav_militiabrowser" android:title="Searchyourfavorites" />
+                <item android:icon="@drawable/rewards" android:id="@+id/nav_invites" android:title="AppreciateUs" />
+            </group>
+        </menu> />
+</menu>
